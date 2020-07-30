@@ -16,5 +16,3 @@ for i in b:
         else:
             sum = sum+(i[j+1]-i[j]-1)
     print(sum)
-
-print("New Git")
